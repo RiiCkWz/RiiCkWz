@@ -1,1 +1,1 @@
-Im RiiCk , C++, C#, LUA Developer
+C++, C#, LUA Developer
